@@ -40,3 +40,5 @@ As per [AudioPlayer Interface Reference](https://developer.amazon.com/public/sol
 
 Please follow the step by step instructions from this source: (This is where I got the code and edited for my purpose)
 https://github.com/alexa/skill-sample-nodejs-audio-player
+
+###### Big Thanks to @inhumantsar from GitHub who helped me to pass thru the table creation.
